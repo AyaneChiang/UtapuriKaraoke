@@ -1,0 +1,32 @@
+﻿@model List<Song>
+
+<partial name="_Filter" />
+
+<div id="accordion" role="tablist" aria-multiselectable="true">
+    @foreach (var song in Model)
+    {
+        <div class="card">
+            <div class="card-header" id="header_@song.Joysound">
+                <h5 class="mb-0">
+                    <span class="btn" data-toggle="collapse" data-target="#collapse_@song.Joysound" aria-expanded="true" aria-controls="collapse_@song.Joysound">
+                        <i class="fa fa-chevron-down pull-right"></i> @song.Name
+                    </span>
+                </h5>
+            </div>
+
+            <div id="collapse_@song.Joysound" class="collapse" aria-labelledby="header_@song.Joysound" data-parent="#accordion">
+                <div class="card-body">
+                    <div class="card-tags" data-tags="@song.Tags" data-name="@song.Name">@string.Join("｜", song.Tags.Split(';'))</div>
+                    <div class="joysound">
+                        <span><i class="fa-solid fa-j"></i></span>
+                        @song.Joysound
+                    </div>
+                    <div class="dam">
+                        <span><i class="fa-solid fa-d"></i></span>
+                        @song.Dam
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>
