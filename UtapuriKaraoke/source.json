@@ -1612,5 +1612,353 @@
     "Joysound": "617155",
     "Dam": "3636-04",
     "Tags": "ST☆RISH;QUARTET NIGHT"
+  },
+  {
+    "Name": "The Wizard of OZ and...",
+    "Joysound": "622609",
+    "Dam": "2954-65",
+    "Tags": "HE★VENS"
+  },
+  {
+    "Name": "ネバーランドの奇跡",
+    "Joysound": "623002",
+    "Dam": "3636-05",
+    "Tags": "ST☆RISH"
+  },
+  {
+    "Name": "咎人のレクイエム",
+    "Joysound": "623607",
+    "Dam": "3386-96",
+    "Tags": "QUARTET NIGHT"
+  },
+  {
+    "Name": "PRI☆LOVE∞UNIVERSE♪",
+    "Joysound": "816975",
+    "Dam": "3636-06",
+    "Tags": "ST☆RISH;QUARTET NIGHT;HE★VENS"
+  },
+  {
+    "Name": "KIR☆MEKI EMOTION",
+    "Joysound": "818085",
+    "Dam": "3636-08",
+    "Tags": "ST☆RISH"
+  },
+  {
+    "Name": "SONG LETTER",
+    "Joysound": "818086",
+    "Dam": "3398-97",
+    "Tags": "QUARTET NIGHT"
+  },
+  {
+    "Name": "GLORIOUS ANGELS",
+    "Joysound": "818087",
+    "Dam": "2954-68",
+    "Tags": "HE★VENS"
+  },
+  {
+    "Name": "キラメキラッ☆",
+    "Joysound": "817987",
+    "Dam": "3396-87",
+    "Tags": "寿嶺二"
+  },
+  {
+    "Name": "Drown in",
+    "Joysound": "817988",
+    "Dam": "3396-88",
+    "Tags": "寿嶺二"
+  },
+  {
+    "Name": "FULLTEN",
+    "Joysound": "818247",
+    "Dam": "3401-64",
+    "Tags": "黒崎蘭丸"
+  },
+  {
+    "Name": "MUSIC FOR LIFE",
+    "Joysound": "818248",
+    "Dam": "3401-65",
+    "Tags": "黒崎蘭丸"
+  },
+  {
+    "Name": "夢奏-むそう-",
+    "Joysound": "818803",
+    "Dam": "3402-69",
+    "Tags": "美風藍"
+  },
+  {
+    "Name": "アンビバレント",
+    "Joysound": "818802",
+    "Dam": "3402-70",
+    "Tags": "美風藍"
+  },
+  {
+    "Name": "Pit a pat",
+    "Joysound": "819039",
+    "Dam": "3403-88",
+    "Tags": "カミュ"
+  },
+  {
+    "Name": "Frost Dream",
+    "Joysound": "819040",
+    "Dam": "3403-89",
+    "Tags": "カミュ"
+  },
+  {
+    "Name": "First Time",
+    "Joysound": "819900",
+    "Dam": "3379-39",
+    "Tags": "鳳瑛一"
+  },
+  {
+    "Name": "Blooming Baby",
+    "Joysound": "819898",
+    "Dam": "3381-69",
+    "Tags": "鳳瑛二"
+  },
+  {
+    "Name": "幾千のEvidence",
+    "Joysound": "819899",
+    "Dam": "3381-70",
+    "Tags": "天草シオン"
+  },
+  {
+    "Name": "YOUR ADVENTURE!!",
+    "Joysound": "819901",
+    "Dam": "3389-29",
+    "Tags": "桐生院ヴァン"
+  },
+  {
+    "Name": "ボクだけのキミ\u3000キミだけのボク",
+    "Joysound": "819902",
+    "Dam": "3389-33",
+    "Tags": "帝ナギ"
+  },
+  {
+    "Name": "Dancing Escape",
+    "Joysound": "819903",
+    "Dam": "3398-25",
+    "Tags": "日向大和"
+  },
+  {
+    "Name": "Embrace Ensemble",
+    "Joysound": "819904",
+    "Dam": "2954-67",
+    "Tags": "皇綺羅"
+  },
+  {
+    "Name": "エンジェルズノート",
+    "Joysound": "819905",
+    "Dam": "2954-70",
+    "Tags": "HE★VENS"
+  },
+  {
+    "Name": "誠に月満ちて",
+    "Joysound": "819876",
+    "Dam": "2954-71",
+    "Tags": "HE★VENS"
+  },
+  {
+    "Name": "TABOO NIGHT XXXX",
+    "Joysound": "633659",
+    "Dam": "3410-36",
+    "Tags": "QUARTET NIGHT"
+  },
+  {
+    "Name": "JINN-Ω-RAY",
+    "Joysound": "633677",
+    "Dam": "3410-37",
+    "Tags": "QUARTET NIGHT"
+  },
+  {
+    "Name": "零-Zero-",
+    "Joysound": "820993",
+    "Dam": "3418-39",
+    "Tags": "寿嶺二"
+  },
+  {
+    "Name": "ワンダフルSMILE",
+    "Joysound": "820994",
+    "Dam": "3418-40",
+    "Tags": "寿嶺二"
+  },
+  {
+    "Name": "Black Panther",
+    "Joysound": "820892",
+    "Dam": "3418-65",
+    "Tags": "黒崎蘭丸"
+  },
+  {
+    "Name": "WINNER",
+    "Joysound": "820893",
+    "Dam": "3418-66",
+    "Tags": "黒崎蘭丸"
+  },
+  {
+    "Name": "Am I a fairy or...?",
+    "Joysound": "821077",
+    "Dam": "1340-08",
+    "Tags": "美風藍"
+  },
+  {
+    "Name": "紡ぐ日常",
+    "Joysound": "821078",
+    "Dam": "1340-09",
+    "Tags": "美風藍"
+  },
+  {
+    "Name": "氷道化師-Ice Pierrot-",
+    "Joysound": "821322",
+    "Dam": "1027-33",
+    "Tags": "カミュ"
+  },
+  {
+    "Name": "Romantic days",
+    "Joysound": "821323",
+    "Dam": "1027-34",
+    "Tags": "カミュ"
+  },
+  {
+    "Name": "The RUN to the RAY",
+    "Joysound": "821467",
+    "Dam": "1039-91",
+    "Tags": "寿嶺二;黒崎蘭丸"
+  },
+  {
+    "Name": "God Love警報発令",
+    "Joysound": "821468",
+    "Dam": "1041-95",
+    "Tags": "美風藍;カミュ"
+  },
+  {
+    "Name": "Jewelful XXXX",
+    "Joysound": "821468",
+    "Dam": "1064-57",
+    "Tags": "QUARTET NIGHT"
+  },
+  {
+    "Name": "Seize me if you can",
+    "Joysound": "821640",
+    "Dam": "1063-23",
+    "Tags": "寿嶺二"
+  },
+  {
+    "Name": "Force & Faith",
+    "Joysound": "821641",
+    "Dam": "1063-24",
+    "Tags": "黒崎蘭丸"
+  },
+  {
+    "Name": "Wandering in a maze",
+    "Joysound": "821642",
+    "Dam": "1061-42",
+    "Tags": "美風藍"
+  },
+  {
+    "Name": "Do you know who I'm",
+    "Joysound": "821643",
+    "Dam": "1061-43",
+    "Tags": "カミュ"
+  },
+  {
+    "Name": "Heαrt Knight (Live Size)",
+    "Joysound": "642164",
+    "Dam": "",
+    "Tags": "QUARTET NIGHT"
+  },
+  {
+    "Name": "Sweet Gratitude",
+    "Joysound": "",
+    "Dam": "1239-46",
+    "Tags": "ST☆RISH"
+  },
+  {
+    "Name": "MY・感謝論",
+    "Joysound": "",
+    "Dam": "1239-47",
+    "Tags": "QUARTET NIGHT"
+  },
+  {
+    "Name": "ENTERPRISE",
+    "Joysound": "",
+    "Dam": "1239-48",
+    "Tags": "HE★VENS"
+  },
+  {
+    "Name": "眩くは幾星霜",
+    "Joysound": "",
+    "Dam": "1295-83",
+    "Tags": "天草シオン"
+  },
+  {
+    "Name": "GIDDY SPIRAL",
+    "Joysound": "",
+    "Dam": "1295-75",
+    "Tags": "皇綺羅"
+  },
+  {
+    "Name": "Stormy Love",
+    "Joysound": "",
+    "Dam": "1295-69",
+    "Tags": "桐生院ヴァン"
+  },
+  {
+    "Name": "TRICKY♡CUTIE",
+    "Joysound": "",
+    "Dam": "1295-82",
+    "Tags": "帝ナギ"
+  },
+  {
+    "Name": "Sing up! Together!!",
+    "Joysound": "",
+    "Dam": "1295-84",
+    "Tags": "日向大和"
+  },
+  {
+    "Name": "花と 恋めぐる",
+    "Joysound": "",
+    "Dam": "1295-88",
+    "Tags": "鳳瑛二"
+  },
+  {
+    "Name": "Escort My Love",
+    "Joysound": "",
+    "Dam": "1295-87",
+    "Tags": "鳳瑛一"
+  },
+  {
+    "Name": "MUSIC ENERGY",
+    "Joysound": "647633",
+    "Dam": "1359-89",
+    "Tags": "一十木音也;来栖翔;寿嶺二;鳳瑛一;日向大和"
+  },
+  {
+    "Name": "夢ノ聖火",
+    "Joysound": "647632",
+    "Dam": "1362-40",
+    "Tags": "聖川真斗;一ノ瀬トキヤ;愛島セシル;美風藍;皇綺羅;天草シオン"
+  },
+  {
+    "Name": "メガLOVEハッピーワールド",
+    "Joysound": "647631",
+    "Dam": "1362-34",
+    "Tags": "四ノ宮那月;神宮寺レン;黒崎蘭丸;カミュ;鳳瑛二;桐生院ヴァン"
+  },
+  {
+    "Name": "Go the Route",
+    "Joysound": "645693",
+    "Dam": "1401-66",
+    "Tags": "QUARTET NIGHT"
+  },
+  {
+    "Name": "FLAG",
+    "Joysound": "645692",
+    "Dam": "1428-99",
+    "Tags": "HE★VENS"
+  },
+  {
+    "Name": "Rainbow Signs",
+    "Joysound": "646346",
+    "Dam": "1498-18",
+    "Tags": "ST☆RISH"
   }
 ]
